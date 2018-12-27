@@ -1,0 +1,74 @@
+#tree3{
+		padding:0px !important;
+		/* height:399px;
+		overflow-x:auto; */
+	}
+	#tree3 ul{
+		margin:0px !important;
+		/* display: inline-block !important; */
+		/* min-width: 233px; */
+	}
+	
+	#tree3 li{
+		/* white-space:nowrap; */
+	}
+	
+	#tree_name{
+		border:1px solid #c2c2c2;
+		height: 24px;
+		width:60%;
+		padding-left:3px;
+		line-height: 30px;
+		margin-top:3px;
+		border-radius:12px;
+	}
+	#tree_name:focus{
+		outline:none;
+		border-color:#6fb3e0;
+	}
+	#tree_name:visited{
+		border-color:#6fb3e0;
+	}
+	#tree_name:active{
+		border-color:#6fb3e0;
+	}
+	#tree_name:hover{
+		border-color:#b5b5b5;
+	}
+	.isdelete{
+	color:#a7a2a2;
+	}
+	.list-group-item{
+	padding: 5px 11px !important; 
+    border:0px  !important;
+	
+	}
+	.page-content{
+	padding-left: 0px !important;
+	}
+	.color_close{
+	color: #428bca;
+	}
+	.color_open{
+	color: #a7a2a2;
+	}
+	.node-selected>.color{
+	color: #ffffff !important;
+	}
+	.widget-body{
+	    height: 400px;
+    	overflow-y: auto;
+    	overflow-x: hidden; 
+	}
+	.widget-box{
+	/* width: 235px; */
+	}
+	.padding-8{
+	padding:0px !important;
+	}
+	.list-group{
+	margin: 0px;
+	}
+	.widget-main{
+	padding:0px !important;
+	}
